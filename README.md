@@ -1,3 +1,11 @@
+To run:
+1.clone the repo.
+2. open directory.
+3. pip install -r requirements.txt
+4.flask run.
+
+
+
 <div align="center">
 <p>
 <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
